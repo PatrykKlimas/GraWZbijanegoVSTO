@@ -1,0 +1,13 @@
+C:\Users\Władca\source\repos\Gra w zbijanego\Gra w zbijanego\bin\Debug\Gra w zbijanego.dll
+C:\Users\Władca\source\repos\Gra w zbijanego\Gra w zbijanego\bin\Debug\Gra w zbijanego.pdb
+C:\Users\Władca\source\repos\Gra w zbijanego\Gra w zbijanego\bin\Debug\Gra w zbijanego.dll.manifest
+C:\Users\Władca\source\repos\Gra w zbijanego\Gra w zbijanego\bin\Debug\Gra w zbijanego.vsto
+C:\Users\Władca\source\repos\Gra w zbijanego\Gra w zbijanego\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Władca\source\repos\Gra w zbijanego\Gra w zbijanego\obj\Debug\Gra w zbijanego.csprojAssemblyReference.cache
+C:\Users\Władca\source\repos\Gra w zbijanego\Gra w zbijanego\obj\Debug\Gra_w_zbijanego.Properties.Resources.resources
+C:\Users\Władca\source\repos\Gra w zbijanego\Gra w zbijanego\obj\Debug\Gra_w_zbijanego.Ribbon1.resources
+C:\Users\Władca\source\repos\Gra w zbijanego\Gra w zbijanego\obj\Debug\Gra w zbijanego.csproj.GenerateResource.cache
+C:\Users\Władca\source\repos\Gra w zbijanego\Gra w zbijanego\obj\Debug\Gra w zbijanego.csproj.CoreCompileInputs.cache
+C:\Users\Władca\source\repos\Gra w zbijanego\Gra w zbijanego\obj\Debug\Gra w zbijanego.csproj.CopyComplete
+C:\Users\Władca\source\repos\Gra w zbijanego\Gra w zbijanego\obj\Debug\Gra w zbijanego.dll
+C:\Users\Władca\source\repos\Gra w zbijanego\Gra w zbijanego\obj\Debug\Gra w zbijanego.pdb
